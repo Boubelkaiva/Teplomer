@@ -2,7 +2,7 @@
 Teploměr
 
  Ukázka:
-([Web-radio](https://teplomer.netlify.app//)).
+([Teploměr](https://teplomer.netlify.app//)).
 
  - html
  - css
