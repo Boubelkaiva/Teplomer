@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(221, 221, 218);
+  }
+  
+  h1 {
+    color: rgb(20, 20, 106);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
+  
+  #btn {
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+  }
+  
+  .container {
+    display: grid;
+    place-items: center;
+  }
+  
+  h1, img, p {
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .col-4 {
+    margin: 0 auto;
+  }
+  .teplomerImage {
+    display: block;
+    margin: 0 auto;
+    
+  }
+  .image-box {
+    border: solid 1px rgb(166, 165, 165);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: auto;
+    
+  }
+  .info-box {
+    background-color: bisque;
+    border: solid 1px rgb(166, 165, 165);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 380px;
+    height: 80px;
+  }
+  .info-box p {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
